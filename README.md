@@ -7,11 +7,15 @@
 
 - 🌱 I’m currently learning **RAG, OpenClaw, Robotics Actuators and O Drives**
 
-- ⚡ Fun fact **I have 2 microchips in my hand :)**
+- ⚡ Fun fact **I have 2 microchips in my hand** (One NFC and one RFID)
+  <br>
+  <a href="https://dangerousthings.com/category/implants/" target="_blank">
+    <img src="https://dangerousthings.com/wp-content/uploads/logo_type_black_216x70.png" alt="Dangerous Things" />
+  </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jelawless/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jelawless/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jelawless/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jelawless/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
