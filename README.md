@@ -10,7 +10,7 @@
 - ⚡ Fun fact **I have 2 microchips in my hand** (One NFC and one RFID)
  
   <a href="https://dangerousthings.com/category/implants/" target="_blank">
-    <img src="https://dangerousthings.com/wp-content/uploads/logo_type_black_216x70.png" alt="Dangerous Things"     height="200" width="70"/>
+    <img src="https://dangerousthings.com/wp-content/uploads/logo_type_black_216x70.png" alt="Dangerous Things"     height="70" width="120"/>
   </a>
 
 <h3 align="left">Connect with me:</h3>
